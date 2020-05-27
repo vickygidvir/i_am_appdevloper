@@ -1,6 +1,6 @@
 # iamappdevloper
 
-My First Flutter application.
+My first flutter application using dart.
 
 ## Getting Started
 
