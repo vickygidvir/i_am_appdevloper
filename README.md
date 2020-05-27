@@ -6,4 +6,4 @@ My First Flutter application.
 
 This project is a starting point for a Flutter application.
 
-For more flutter app, Stay tuned:)
+For more flutter apps, Stay tuned:)
